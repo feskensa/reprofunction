@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Repro.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7071"
+    }
+  }
+}
